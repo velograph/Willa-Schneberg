@@ -4,7 +4,7 @@ Design by Free CSS Templates
 http://www.freecsstemplates.org
 Released for free under a Creative Commons Attribution 2.5 License
 
-Name       : Macro Spikes 
+Name       : Macro Spikes
 Description: A two-column, fixed-width design with dark color scheme.
 Version    : 1.0
 Released   : 20130326
@@ -44,17 +44,18 @@ Released   : 20130326
 				<li><a href="rending.html">Rending the Garment</a></li>
 				<li><a href="media.html">Multimedia</a></li>
 				<li class="current_page_item"><a href="contact.php">Contact</a></li>
-				<li><a href="workshops.html">Workshops</a></li>
+                <li><a href="workshops.html">Workshops</a></li>
 				<li><a href="esther.html">Books of Esther</a></li>
+				<li><a href="reviews.html">Reviews</a></li>
 			</ul>
 		</div>
 	</div>
 	<div id="page">
 		<div id="content">
-			
+
 			<p><img src="images/header.jpg"  alt="" /></p>
 			<h3>Contact</h3><br>
- 
+
 
 <a href="mailto:info@threewayconversation.org?Subject=from website" target="_top">
 Click here</a> to send us an email.
@@ -65,19 +66,19 @@ Click here</a> to send us an email.
 		<div id="sidebar">
 			<div id="tbox1">
 			<br><br><br><br>
-			
+
 			<div align="center">
 			<img src="images/tsunami.books.jpg"><br>
-			
+
 			Tsunami Books, Eugene, OR
-			
+
 			</div>
-			
-				
+
+
 			</div>
 		</div>
 	</div>
-	
+
 	<div id="footer">
 		<p>Copyright (c) 2015 threewayconversation.org &nbsp;&nbsp; All rights reserved. Design by <a href="http://www.freecsstemplates.org/" rel="nofollow">FreeCSSTemplates.org</a>. </p>
 	</div>
